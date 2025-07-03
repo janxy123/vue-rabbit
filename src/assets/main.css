@@ -1,5 +1,6 @@
 @import './base.css';
 
+<<<<<<< HEAD
 #app {
   max-width: 1280px;
   margin: 0 auto;
@@ -33,3 +34,5 @@ a,
     padding: 0 2rem;
   }
 }
+=======
+>>>>>>> e2b1eb1e0e179ad986bf5b85953c409368688061
